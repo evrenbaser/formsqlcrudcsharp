@@ -1,0 +1,10 @@
+c:\users\user\source\repos\WindowsFormsAppsqlcrud\WindowsFormsAppsqlcrud\bin\Debug\WindowsFormsAppsqlcrud.exe.config
+c:\users\user\source\repos\WindowsFormsAppsqlcrud\WindowsFormsAppsqlcrud\bin\Debug\WindowsFormsAppsqlcrud.exe
+c:\users\user\source\repos\WindowsFormsAppsqlcrud\WindowsFormsAppsqlcrud\bin\Debug\WindowsFormsAppsqlcrud.pdb
+c:\users\user\source\repos\WindowsFormsAppsqlcrud\WindowsFormsAppsqlcrud\obj\Debug\WindowsFormsAppsqlcrud.csprojAssemblyReference.cache
+c:\users\user\source\repos\WindowsFormsAppsqlcrud\WindowsFormsAppsqlcrud\obj\Debug\WindowsFormsAppsqlcrud.Form1.resources
+c:\users\user\source\repos\WindowsFormsAppsqlcrud\WindowsFormsAppsqlcrud\obj\Debug\WindowsFormsAppsqlcrud.Properties.Resources.resources
+c:\users\user\source\repos\WindowsFormsAppsqlcrud\WindowsFormsAppsqlcrud\obj\Debug\WindowsFormsAppsqlcrud.csproj.GenerateResource.cache
+c:\users\user\source\repos\WindowsFormsAppsqlcrud\WindowsFormsAppsqlcrud\obj\Debug\WindowsFormsAppsqlcrud.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\WindowsFormsAppsqlcrud\WindowsFormsAppsqlcrud\obj\Debug\WindowsFormsAppsqlcrud.exe
+c:\users\user\source\repos\WindowsFormsAppsqlcrud\WindowsFormsAppsqlcrud\obj\Debug\WindowsFormsAppsqlcrud.pdb
